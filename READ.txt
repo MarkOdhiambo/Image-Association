@@ -1,0 +1,6 @@
+The work was done there where several challenges encountered if you want to work on any data you'll have to import on
+the current working directory and work on it, the importation of multiple images at the same time was giving me an error
+and due to time constraint working on it took several unsuccesfull hours.
+Past that all was okay but the model for the classification was giving me 6 clusters which can be reduced by using a
+more powerful machine and running the data as is I had to resize the images. The mean-shift algorithm is rather computationally
+heavy.
